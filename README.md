@@ -1,13 +1,8 @@
-# Documentation HTML Template
-A Sample HTML Documentation Template for Wordpress Themes, HTML Templates and Plugins. Built with Bootstrap 3. 
+Documentation Energy Project
+===========================
 
-## Installation
-Download the package as ZIP and edit the HTML and CSS as you like.
+This documentations will help you to set up the tablets in kiosk mode in order to carry out experiments using OTree Framework.
 
-## Demo
-Click this link for a live demo : http://surjithctly.github.io/documentation-html-template/
-
-## Credits
-This is a modified version of [Template Visual's](http://themeforest.net/user/templatevisual?ref=surjithctly&utm_source=github_surjithctly_docs) Documentation : Actual Documentation Link : http://goo.gl/RVwdHE
-
-Browser Testing by [Browserstack](https://www.browserstack.com/)
+### Credits
+* Surjith S M  | [Page](https://surjithctly.in/) | Open source project to display the documentation
+* Daniel F Santos B |  dfsantosbu@unal.edu.co | [Github](https://github.com/xdanielsb) | Adapt, improve and create new sections of code.
